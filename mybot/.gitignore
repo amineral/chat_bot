@@ -1,0 +1,9 @@
+settings.py
+.vscode/
+.idea/
+env/
+.DS_STORE
+__pycache__/
+bot.log
+*mp3
+friends_photos/
