@@ -4,4 +4,4 @@ for training and testing
 - play citys
 - count words in message
 - sending chat members photos
-
+- working with ephem (commented)
